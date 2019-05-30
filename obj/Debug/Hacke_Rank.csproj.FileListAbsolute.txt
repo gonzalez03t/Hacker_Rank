@@ -1,0 +1,14 @@
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Hacke_Rank.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Hacke_Rank.pdb
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\obj\Debug\Hacke_Rank.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\obj\Debug\Hacke_Rank.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\obj\Debug\Hacke_Rank.csproj.CopyComplete
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\obj\Debug\Hacke_Rank.dll
+C:\Users\Jesus\source\repos\Hacker_Rank\Hacke_Rank\Hacke_Rank\obj\Debug\Hacke_Rank.pdb
