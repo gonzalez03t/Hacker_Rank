@@ -17,5 +17,15 @@ namespace Hacke_Rank
             Assert.IsTrue(test.alternatingCharacters("BABABA") == 0);
             Assert.IsTrue(test.alternatingCharacters("ABABABAB") == 0);
         }
+
+        [TestMethod]
+        public void MakingAnagramsTest()
+        {
+            MakingAnagrams test = new MakingAnagrams();
+
+            Assert.IsTrue(test.makeAnagram("abc", "acbd") == 1);
+            Assert.IsTrue(test.makeAnagram("abccf", "acbdefa") == 2);
+        }
+
     }
 }
