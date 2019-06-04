@@ -23,9 +23,7 @@ namespace Hacke_Rank
         {
             MakingAnagrams test = new MakingAnagrams();
 
-            Assert.IsTrue(test.makeAnagram("bacdc", "dfcbaxc") == 2);
-            
+            Assert.IsTrue(test.makeAnagram("tbahcdcu", "idfcbaxcl") == 7);
         }
-
     }
 }
