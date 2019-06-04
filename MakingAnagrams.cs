@@ -8,17 +8,14 @@ namespace Hacke_Rank
 {
     class MakingAnagrams
     {
-        // Complete the makeAnagram function below.
-        public int makeAnagram(string a, string b)
+        //Eliminate unecessary characters
+        public void deleteUnneededChar(ref string a, ref string b, ref int total)
         {
-            int total = 0;
             string temp = "";
-            Console.WriteLine(temp);
 
-            //Eliminate unecessary characters
             for (int i = 0; i < b.Length; i++)
             {
-                if(!a.Contains(b[i]))
+                if (!a.Contains(b[i]))
                 {
                     total++;
                 }
@@ -28,7 +25,30 @@ namespace Hacke_Rank
                 }
             }
 
-            Console.WriteLine(temp);
+            b = temp;
+        }
+
+        // Complete the makeAnagram function below.
+        public int makeAnagram(string a, string b)
+        {
+            int total = 0;
+            Console.WriteLine("Second string: " + b);
+
+            deleteUnneededChar(ref a, ref b, ref total); //Eliminate unecessary characters
+
+            //Determine if strings are anagrams
+            //
+
+
+
+
+
+
+
+
+            Console.WriteLine("New string " + b);
+            Console.WriteLine("First tring: " + a);
+            Console.WriteLine("Deletions: " + total);
             return total;
         }
     }

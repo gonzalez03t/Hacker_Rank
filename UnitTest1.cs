@@ -23,8 +23,8 @@ namespace Hacke_Rank
         {
             MakingAnagrams test = new MakingAnagrams();
 
-            Assert.IsTrue(test.makeAnagram("abc", "acbd") == 1);
-            Assert.IsTrue(test.makeAnagram("abccf", "acbdefa") == 2);
+            Assert.IsTrue(test.makeAnagram("bacdc", "dfcbaxc") == 2);
+            
         }
 
     }
