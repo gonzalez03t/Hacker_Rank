@@ -23,7 +23,19 @@ namespace Hacke_Rank
         {
             MakingAnagrams test = new MakingAnagrams();
 
-            Assert.IsTrue(test.makeAnagram("tbahcdcu", "idfcbaxcl") == 7);
+            Assert.IsTrue(test.makeAnagram("tbbbahcdcu", "idfcbaxcccl") == 11);
+        }
+
+        [TestMethod]
+        public void EqualStacksTest()
+        {
+            EqualStacks test = new EqualStacks();
+
+            int[] array1 = { 1, 1, 1, 1, 2 };
+            int[] array2 = { 3, 7, };
+            int[] array3 = { 1, 3, 1 };
+
+            Assert.IsTrue(test.equalStacks(array1, array2, array3) == 0);                                         
         }
     }
 }
