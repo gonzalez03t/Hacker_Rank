@@ -32,10 +32,20 @@ namespace Hacke_Rank
             EqualStacks test = new EqualStacks();
 
             int[] array1 = { 1, 1, 1, 1, 2 };
-            int[] array2 = { 3, 7, };
+            int[] array2 = { 3, 7 };
             int[] array3 = { 1, 3, 1 };
 
             Assert.IsTrue(test.equalStacks(array1, array2, array3) == 0);                                         
+        }
+
+        [TestMethod]
+        public void MinimumSwapsTest()
+        {
+            MinimumSwaps2 test = new MinimumSwaps2();
+
+            int[] arr = { 1, 3, 5, 2, 4, 6, 7};
+
+            Assert.IsTrue(test.minimumSwaps(arr) == 3);
         }
     }
 }
