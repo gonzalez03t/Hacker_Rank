@@ -51,8 +51,10 @@
   <ItemGroup>
     <Compile Include="AlternatingCharacters.cs" />
     <Compile Include="EqualStacks.cs" />
+    <Compile Include="factorial.cs" />
     <Compile Include="MakingAnagrams.cs" />
     <Compile Include="MinimumSwaps2.cs" />
+    <Compile Include="stringReverseRecursion.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

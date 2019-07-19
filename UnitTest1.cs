@@ -47,5 +47,22 @@ namespace Hacke_Rank
 
             Assert.IsTrue(test.minimumSwaps(arr) == 3);
         }
+
+        [TestMethod]
+        public void factorialTest()
+        {
+            factorial test = new factorial();
+
+            Assert.IsTrue(test.factorialF(5) == 120);
+        }
+
+        [TestMethod]
+        public void stringReverseTest()
+        {
+            stringReverseRecursion test = new stringReverseRecursion();
+            string str = "jesus";
+
+            Assert.IsTrue(test.reverseString(str) == "susej");
+        }
     }
 }
